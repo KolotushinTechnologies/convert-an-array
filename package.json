@@ -1,0 +1,24 @@
+{
+  "name": "convertanarray",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KolotushinTechnologies/convert-an-array.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KolotushinTechnologies/convert-an-array/issues"
+  },
+  "homepage": "https://github.com/KolotushinTechnologies/convert-an-array#readme",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.0.2"
+  }
+}
